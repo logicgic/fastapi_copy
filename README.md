@@ -1,0 +1,1 @@
+本项目用于学习FastAPI框架，复刻了full-stack-fastapi-template项目。参考项目地址为：https://github.com/fastapi/full-stack-fastapi-template

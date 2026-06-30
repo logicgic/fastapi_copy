@@ -11,6 +11,7 @@ github-actions = [
 [tool.uv.workspace]
 members = [
     "backend",
+    "fastapi_copy",
     "backend/my_project",
     "my_project",
 ]
